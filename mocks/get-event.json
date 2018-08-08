@@ -1,0 +1,10 @@
+{
+  "pathParameters": {
+    "id": "98701d90-87cd-11e8-add8-93773fd16a57"
+  },
+  "requestContext": {
+    "identity": {
+      "email": "kshen@nova-approval.com"
+    }
+  }
+}
